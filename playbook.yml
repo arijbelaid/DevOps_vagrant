@@ -1,0 +1,8 @@
+---
+- name: Déploiement complet sur les VMs Vagrant
+  hosts: all
+  become: true
+  roles:
+    - docker_portainer_install
+    - jenkins_install
+    - container_deployment
