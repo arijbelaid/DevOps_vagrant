@@ -69,6 +69,8 @@ Le playbook fait appel aux 3 rôles : `docker_portainer_install`, `jenkins_insta
 Exécution réussie des rôles sur les deux machines (`web1` et `web2`) avec `failed=0`.
 
 ![Lab Provision](captures/08-lab-provision.png)
+![Lab Provision](captures/08-lab-provision1.png)
+
 
 ### État des machines
 Les deux VMs sont lancées avec succès par Vagrant et sont en cours d'exécution.
