@@ -75,7 +75,7 @@ Exécution réussie des rôles sur les deux machines (`web1` et `web2`) avec `fa
 ### État des machines
 Les deux VMs sont lancées avec succès par Vagrant et sont en cours d'exécution.
 
-![Lab Status](captures/09-lab-status.png.png)
+![Lab Status](captures/9-lab-status.png)
 
 ### Services déployés
 Les services sont accessibles depuis le navigateur de la machine hôte :
