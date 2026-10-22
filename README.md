@@ -83,7 +83,6 @@ Les services sont accessibles depuis le navigateur de la machine hôte :
 *   **Web2** : Site web (`18082`), Portainer (`19000`), Jenkins (`18081`)
 
 ![Lab Services](captures/10-lab-services.png)
-![Lab Services](captures/10-lab-services1.png)
 ![Lab Services](captures/10-lab-services2.png)
 ![Lab Services](captures/10-lab-services3.png)
 ![Lab Services](captures/10-lab-services4.png)
